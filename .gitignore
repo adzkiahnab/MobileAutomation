@@ -1,5 +1,6 @@
 .gradle
 <<<<<<< HEAD
+<<<<<<< HEAD
 .cache
 bin
 
@@ -8,6 +9,8 @@ Reports/
 appium
 Libs
 =======
+=======
+>>>>>>> 9f45ba8 (initial commit)
 
 bin
 
@@ -15,6 +18,9 @@ Reports
 
 Libs
 
+<<<<<<< HEAD
+>>>>>>> 9f45ba8 (initial commit)
+=======
 >>>>>>> 9f45ba8 (initial commit)
 output
 
@@ -24,6 +30,7 @@ build
 .classpath
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 .project
 Plugins
 settings
@@ -31,6 +38,9 @@ settings
 build
 console
 *.log
+=======
+.project
+>>>>>>> 9f45ba8 (initial commit)
 =======
 .project
 >>>>>>> 9f45ba8 (initial commit)
